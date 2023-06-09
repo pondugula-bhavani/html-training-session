@@ -59,5 +59,10 @@ Activities with HTML, JavaScript, CSS
     <td>activity-10</td>
     <td>Background image for body</td>
   </tr>
+  <tr>
+  <td>11</td>
+    <td>activity-11</td>
+    <td>Anchor Tag</td>
+  </tr>
 </table>
     
