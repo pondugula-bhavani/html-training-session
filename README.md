@@ -49,10 +49,15 @@ Activities with HTML, JavaScript, CSS
     <td>activity-8</td>
     <td>Internal Style Sheet</td>
   </tr>
-   <tr>
+  <tr>
   <td>9</td>
     <td>activity-9</td>
     <td>Redirect your web document after 5 seconds to another website</td>
+  </tr>
+  <tr>
+  <td>10</td>
+    <td>activity-10</td>
+    <td>Background image for body</td>
   </tr>
 </table>
     
