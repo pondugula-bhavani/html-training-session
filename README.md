@@ -29,5 +29,10 @@ Activities with HTML, JavaScript, CSS
     <td>activity-4</td>
     <td>Understanding NoScript Tag</td>
   </tr>
+  <tr>
+    <td>5</td>
+    <td>activity-5</td>
+    <td>Demo of link tag</td>
+  </tr>
 </table>
     
