@@ -34,5 +34,10 @@ Activities with HTML, JavaScript, CSS
     <td>activity-5</td>
     <td>Demo of link tag</td>
   </tr>
+  <tr>
+    <td>6</td>
+    <td>activity-6</td>
+    <td>Icon to web document</td>
+  </tr>
 </table>
     
