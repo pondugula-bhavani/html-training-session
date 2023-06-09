@@ -64,5 +64,10 @@ Activities with HTML, JavaScript, CSS
     <td>activity-11</td>
     <td>Anchor Tag</td>
   </tr>
+  <tr>
+  <td>12</td>
+    <td>activity-12</td>
+    <td>HTML Entities and HTML Comments</td>
+  </tr>
 </table>
     
