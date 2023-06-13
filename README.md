@@ -69,5 +69,10 @@ Activities with HTML, JavaScript, CSS
     <td>activity-12</td>
     <td>HTML Entities and HTML Comments</td>
   </tr>
+  <tr>
+  <td>13</td>
+    <td>activity-13</td>
+    <td>Create a table to display your team members</td>
+  </tr>
 </table>
     
