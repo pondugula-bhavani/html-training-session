@@ -94,6 +94,11 @@ Activities with HTML, JavaScript, CSS
     <td>activity-17</td>
     <td>HR and BR in HTML</td>
   </tr>
+  <tr>
+  <td>18</td>
+    <td>activity-18</td>
+    <td>Div tag in HTML</td>
+  </tr>
 </table>
 
 
