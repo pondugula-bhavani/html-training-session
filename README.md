@@ -89,6 +89,11 @@ Activities with HTML, JavaScript, CSS
     <td>activity-16</td>
     <td>Paragraphs in HTML</td>
   </tr>
+  <tr>
+  <td>17</td>
+    <td>activity-17</td>
+    <td>HR and BR in HTML</td>
+  </tr>
 </table>
 
 
