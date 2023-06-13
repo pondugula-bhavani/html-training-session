@@ -84,6 +84,13 @@ Activities with HTML, JavaScript, CSS
     <td>activity-15</td>
     <td>Headings from H1 to H6</td>
   </tr>
+  <tr>
+  <td>16</td>
+    <td>activity-16</td>
+    <td>Paragraphs in HTML</td>
+  </tr>
 </table>
+
+
 
     
